@@ -1,0 +1,9 @@
+Package: io.crafterpika.appcakepp2
+Name: AppCake++ 2
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: CrafterPika
+Author: CrafterPika
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
