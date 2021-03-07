@@ -6,4 +6,4 @@ Description: An awesome MobileSubstrate tweak!
 Maintainer: CrafterPika
 Author: CrafterPika
 Section: Tweaks
-Depends: mobilesubstrate (>= 0.9.5000)
+Depends: mobilesubstrate (>= 0.9.5000) | com.ex.substitue
