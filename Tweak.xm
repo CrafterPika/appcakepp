@@ -104,8 +104,8 @@ NSString *alreadyRun = @"already_run";
 if ([validate boolForKey:alreadyRun])
 return;
 [validate setBool:YES forKey:alreadyRun];
-UIAlertView *credits = [[UIAlertView alloc] initWithTitle:@"AppCake++ v0.5a"
-message:@"Features: \n -No Ads \n -No AppSync Pop Up \n\n Changes: \n - Fixes no AppSync Pop up"
+UIAlertView *credits = [[UIAlertView alloc] initWithTitle:@"AppCake++ v0.6b"
+message:@"Features: \n -No Ads \n -No AppSync Pop Up \n\n Changes: \n - Allows now installing on Substitue"
                                                  delegate:self
   					cancelButtonTitle:@"Close"
   					otherButtonTitles:@"Twitter", nil];
